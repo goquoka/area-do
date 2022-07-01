@@ -1,0 +1,8 @@
+class Main {
+  public static void main(String[] args) {
+double c = 67;
+double h = 34;
+double B = (c*h)/2;
+System.out.print(B);
+  }
+}
